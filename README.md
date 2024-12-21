@@ -10,7 +10,7 @@
 
 ## Education
 - ### PhD in Astrophysics
-  Insubria University - INAF-Brera, Como - Milano, Italy\
+  Università degli Studi dell'Insubria - INAF-Brera, Como - Milano, Italy\
   Nov 2020 -- Jan 2024\
   \
   Project Title: *Relativistic jets from QSOs in the early Universe*\
