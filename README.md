@@ -24,6 +24,6 @@ I have worked with many telescopes accross the electromagnetic spectrum with exp
 - Optical/near-infrared: LBT, VLT, TNG, Gemini-South, AAT
 - X-ray: Chandra, XMM-Newton, Swift-XRT
 
-##More about me:
+## More about me:
 [Link to another page](./another-page.html).
 
