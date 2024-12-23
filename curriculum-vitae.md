@@ -38,17 +38,17 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 
 ## Invited Seminars
 
-- Radio, Sub-Millimiter (RMS) seminar, 15 November 2024, CfA, Cambridge (US)\
+- Radio, Sub-Millimiter (RMS) seminar -- 15 November 2024 -- CfA, Cambridge (US)\
   *Radio Quasars and their relativistic jets in the early Universe*
 
-- Institute of Astrophysics and Space Sciences, 7 June 2024, Lisbon (Portugal)\
+- Institute of Astrophysics and Space Sciences -- 7 June 2024 -- Lisbon (Portugal)\
   *Relativistic jets from QSOs in the early Universe*
 
-- Osservatorio Astoronomico di Brera, 16 April 2024, Merate (Italy) \
+- Osservatorio Astoronomico di Brera -- 16 April 2024 -- Merate (Italy) \
   *Relativistic jets from QSOs in the eraly Universe*
   ([see recording](https://drive.google.com/file/d/1OXlkIJecYG4UiS-rz4gBZ3r061ZNtuXI/view))
 
-- Hypatia Colloquium, 14 June 2022, ESO--Garching (Germany)\
+- Hypatia Colloquium -- 14 June 2022 -- ESO/Garching (Germany)\
   *Impact of the CMB on the evolution of AGNs and their relativisitc jets at the highest redshifts*
   ([see recording](https://www.youtube.com/watch?v=1Up8CkW6O1k))
 
