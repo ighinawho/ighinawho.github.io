@@ -9,7 +9,7 @@ I have worked with several telescopes accross the electromagnetic spectrum with 
 - X-ray: Chandra, XMM-Newton, Swift-XRT
 
 <!--  ![screenshot](images/Photo_Luca.jpg) -->
-<img src="images/ATCA" width="256"/>
-<img src="images/Gemini" width="256"/>
+<img src="images/ATCA.jpg" width="256"/>
+<img src="images/Gemini.jpg" width="256"/>
 
 [Go back](./)
