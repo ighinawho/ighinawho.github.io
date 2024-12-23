@@ -38,4 +38,7 @@ Full list of referred publications can be found *[here](https://ui.adsabs.harvar
 
 ## Seminars
 
+<img src="images/Deep24_conf.jpeg" width="512"/>
+
+
 [Go back](./)
