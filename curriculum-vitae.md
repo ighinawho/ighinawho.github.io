@@ -24,19 +24,16 @@ Oct 2018 -- Oct 2020\
 Università degli Studi di Milano-Bicocca, Mialno, Italy \
 One semester spent at Université d'Aix-Marseille, France, 2019\
 Internship at the INAF-Brera observatory, Milano (12 months)\
-Thesis Title: *The impact of the CMB on the spatial density of high-z blazars*
-Supervisors: A. Caccianiga, A. Moretti and M. Dotti. Final grade: 110 *cum laude* / 110      
 
 - ### Undergraduate degree in Physics
 Oct 2015 -- Oct 2018\
 Università degli Studi di Milano-Bicocca, Mialno, Italy \
 One semester spent at Université de Bordeaux, France, 2018\
 Internship at the INAF-Brera observatory, Milano (6 months)\
-Thesis Title: *X-ray analysis of high-redshift blazars*
-Supervisors: A. Caccianiga, A. Moretti and M. Dotti. Final grade: 104 / 110      
 
 
-## Publications
+## First Author Publications
+
 Full list of referred publications can be found *[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)*.
 
 ## Seminars
