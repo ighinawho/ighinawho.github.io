@@ -1,4 +1,6 @@
-# Astrophysicists
+# Welcome to my webpage !
+
+My name is Luca Ighina and I am currently a Post-doctoral fellow at the Center for Astrophysics | Harvard and Smithsonian oin Cambridge, Massachussets. 
 
 
 ## More about me:
