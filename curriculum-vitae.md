@@ -34,7 +34,7 @@ Internship at the INAF-Brera observatory, Milano (6 months)\
 
 ## First Author Publications
 
-Full list of referred publications can be found *[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)*.
+Full list of referred publications can be found **[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)**.
 
 ## Seminars
 
