@@ -36,4 +36,9 @@ Thesis Title: *X-ray analysis of high-redshift blazars*
 Supervisors: A. Caccianiga, A. Moretti and M. Dotti. Final grade: 104 / 110      
 
 
+## Publications
+Full list of referred publications can be found *[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)*.
+
+## Seminars
+
 [Go back](./)
