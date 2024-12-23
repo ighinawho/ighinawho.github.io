@@ -9,5 +9,6 @@ I have worked with several telescopes accross the electromagnetic spectrum with 
 - X-ray: Chandra, XMM-Newton, Swift-XRT
 
 ![screenshot](images/Photo_Luca.jpg)
+<img src="images/Photo_Luca.jpg" width="128"/>
 
 [Go back](./)
