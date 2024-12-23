@@ -10,14 +10,17 @@
 
 ## Education
 - ### PhD in Astrophysics
-  Università degli Studi dell'Insubria - INAF-Brera, Como - Milano, Italy\
   Nov 2020 -- Jan 2024\
-  \
-  Project Title: *Relativistic jets from QSOs in the early Universe*\
-  One year visit at the Internation Centre for Radioastronomy Research, Perth, WA, Australia
+  Università degli Studi dell'Insubria - INAF-Brera, Como - Milano, Italy\
+  One year visit at ICRAR-CIRA, Perth, WA, Australia\
+  Project Title: *Relativistic jets from QSOs in the early Universe*
+
+## Publications
+List of referred publications can be found **[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)**.
 
 ## Observing experience
-I have worked with many telescopes accross the electromagnetic spectrum with experience in the preparation/execution of the observations and the data reduction of the following ones:
+I have worked with many telescopes accross the electromagnetic spectrum with experience in the preparation/execution of observations and data reduction:
 - Radio: ATCA, VLA, uGMRT, LBA, eMERLIN
 - Optical/near-infrared: LBT, VLT, TNG, Gemini-South, AAT
 - X-ray: Chandra, XMM-Newton, Swift-XRT
+
