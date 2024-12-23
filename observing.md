@@ -8,6 +8,6 @@ I have worked with several telescopes accross the electromagnetic spectrum with 
 - Optical/near-infrared: LBT, VLT, TNG, Gemini-South, AAT
 - X-ray: Chandra, XMM-Newton, Swift-XRT
 
-![screenshot](images/Luca_photo.png)
+![screenshot](images/Photo_Luca.jpg)
 
 [Go back](./)
