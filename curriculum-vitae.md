@@ -23,13 +23,13 @@ layout: default
 Oct 2018 -- Oct 2020\
 Università degli Studi di Milano-Bicocca, Mialno, Italy \
 One semester spent at Université d'Aix-Marseille, France, 2019\
-Internship at the INAF-Brera observatory, Milano (12 months)\
+Internship at the INAF-Brera observatory, Milano (12 months)
 
 - ### Undergraduate degree in Physics
 Oct 2015 -- Oct 2018\
 Università degli Studi di Milano-Bicocca, Mialno, Italy \
 One semester spent at Université de Bordeaux, France, 2018\
-Internship at the INAF-Brera observatory, Milano (6 months)\
+Internship at the INAF-Brera observatory, Milano (6 months)
 
 
 ## First Author Publications
@@ -38,13 +38,13 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 
 ## Invited Seminars
 
-- Radio, Sub-Millimiter (RMS) seminar -- 15 November 2024 -- CfA, Cambridge (US)\
+- Radio, Sub-Millimiter (RMS) seminar -- 15 November 2024 -- CfA, Cambridge, MA (US)\
   *Radio Quasars and their relativistic jets in the early Universe*
 
-- Institute of Astrophysics and Space Sciences -- 7 June 2024 -- Lisbon (Portugal)\
+- Weekely seminar at Institute of Astrophysics and Space Sciences -- 7 June 2024 -- Lisbon (Portugal)\
   *Relativistic jets from QSOs in the early Universe*
 
-- Osservatorio Astoronomico di Brera -- 16 April 2024 -- Merate (Italy) \
+- Weekely seminar at Osservatorio Astoronomico di Brera -- 16 April 2024 -- Merate (Italy) \
   *Relativistic jets from QSOs in the eraly Universe*
   ([see recording](https://drive.google.com/file/d/1OXlkIJecYG4UiS-rz4gBZ3r061ZNtuXI/view))
 
