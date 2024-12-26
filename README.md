@@ -9,5 +9,5 @@ I study the most distant supermassive black hole in our Universe using the large
 **[Research Interests](./research_inter.html)** | 
 **[Publications](./publications.html)**\
 **[Observing Experience](./observing.html)** |
-**[In the news](./news.html)**
-
+**[In the news](./news.html)** |
+**[Contact me](./contacts.html)** 
