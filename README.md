@@ -6,7 +6,8 @@ I study the most distant supermassive black hole in our Universe using the large
 
 ## More about me:
 **[Curriculum Vitae](./curriculum-vitae.html)** | 
-**[Publications](./publications.html)** | 
-**[Observing Experience](./observing.html)**\
+**[Research Interests](./curriculum-vitae.html)** | 
+**[Publications](./publications.html)**\
+**[Observing Experience](./observing.html)** |
 **[In the news](./news.html)**
 
