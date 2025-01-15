@@ -11,9 +11,9 @@ I have worked with many telescopes accross the entire electromagnetic spectrum w
 &nbsp;
 
 First-hand observations:
-- Certified observed with ATCA radio telescope and have more than 60 hours of observations.
-- Certified observed with the LBA array, with more than 320 hours of observations.
-- Several nights oif bservations with different optical telescopes (AAT, TNG, NTT).
+- Certified observed for the ATCA radio telescope, with more than 60 hours of observations.
+- Certified observed for the LBA radio array, with more than 20 hours of observations.
+- Several nights of observations with different optical telescopes (AAT, TNG, NTT).
 
 
 <!--  ![screenshot](images/Photo_Luca.jpg) -->
