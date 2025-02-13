@@ -17,6 +17,6 @@ First-hand observations:
 
 
 <!--  ![screenshot](images/Photo_Luca.jpg) -->
-<img src="images/io_telescopes.png" width="512"/>
+<img src="images/TNG_telescope.jpg" width="200"/>
 
 [Go back](./)
