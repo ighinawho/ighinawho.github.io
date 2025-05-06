@@ -1,9 +1,9 @@
 # Welcome to my webpage !
 
-My name is Luca Ighina and I am a Post-doctoral fellow at the Center for Astrophysics (Harvard and Smithsonian) in Cambridge, Massachussets.\
-I study the most distant supermassive black hole in our Universe using the largest and most sensitive telescopes on the gorund and in space. 
+My name is Luca Ighina and I am a Post-doctoral fellow at the Center for Astrophysics (Harvard and Smithsonian) in Cambridge, Massachusetts.\
+I study the most distant supermassive black hole in our Universe using the largest and most sensitive telescopes on the ground and in space. 
 
-(Page under development, stay tuned !)
+(Page under development, we are working for you. Stay tuned !)
 
 ## More about me:
 **[Curriculum Vitae](./curriculum-vitae.html)** | 
@@ -11,4 +11,5 @@ I study the most distant supermassive black hole in our Universe using the large
 **[Publications](./publications.html)**\
 **[Observing Experience](./observing.html)** |
 **[In the news](./news.html)** |
-**[Contact me](./contacts.html)** 
+**[Contact me](./contacts.html)**
+<!-- **[Beyond Astronomy](./contacts.html)** | -->
