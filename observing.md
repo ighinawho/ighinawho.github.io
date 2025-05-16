@@ -2,17 +2,18 @@
 layout: default
 ---
 
-## <span style="color:#FF6347">Observ</span><span style="color:#3CB371">ing Exp</span><span style="color:#4169E1">erience </span>
+<!--## <span style="color:#FF6347">Observ</span><span style="color:#3CB371">ing Exp</span><span style="color:#4169E1">erience </span> -->
+## Observing Experience
 
 I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data.
 Below I list all the successful proposals I submitted as Principal Investigator.
 
-### <span style="color:#FF6347">Radio band: </span>
+### <span style="color:#B22222">Radio band: </span>
 
 **Australia Telescope Compact Array** (ATCA): 72 hours allocated\
-C3601 ATCA view on a z~5.2 kpc-scale radio jet\
-C3535 Identifying Blazars in the Primordial Universe\
-C3477 High-frequency Radio Properties of Three New z > 6 Jetted QSOs
+C3601 — ATCA view on a z~5.2 kpc-scale radio jet\
+C3535 — Identifying Blazars in the Primordial Universe\
+C3477 — High-frequency Radio Properties of Three New z > 6 Jetted QSOs
 
 **e-MERLIN**: 120 hours allocated\
 CY18014 — Resolving kpc-scale relativistic jets at high redshift\
@@ -30,6 +31,12 @@ DDT-20231128-LI-01 — Characterisation of a z~5.2 kpc-scale radio jet
 **Very Large Array** (VLA): 9.5 hours allocated\
 24B-504 — Illuminating the COSMOS: characterising the radio jet of a z~8 AGN\
 22A-305 — Characterising the kpc structure and emission of a powerful radio jet at z > 6
+
+
+### <span style="color:#FF6347">Sub-mm and mm band: </span>
+
+**The Northern Extended Millimetre Array** (NOEMA): 18 hours allocated\
+S25CI — NOEMA view on two obscured z>4.5 radio-loud AGN\
 
 ### <span style="color:#3CB371">Optical/near-Infrared band: </span>
 
@@ -82,9 +89,9 @@ Uncovering the X-ray properties of ten 4 < z < 6 blazars
 
 
 <figure style="text-align: center;">
-  <img src="images/io_telescopes.png"  width="560"/>
+  <img src="images/io_telescopes.png"  width="712"/>
   <figcaption> 
-<strong>Left:</strong> Gemini-North telescope on Mauna Kea (Hawaii, USA).
+<strong>Left:</strong> Gemini-North telescope (right) and on Mauna Kea (Hawaii, USA).
 <strong>Right:</strong> One of the six dishes composing the ATCA array (NSW, Australia).
  </figcaption>
 </figure>

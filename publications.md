@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Scientific publications
-Links to all referred publications can be found *[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)*
+Links to all referred publications, first and co-author, can be found *[here](https://ui.adsabs.harvard.edu/public-libraries/1d8_iPsRTDOkwPHmys5B_g)*
 
 
 ### First author publications
