@@ -13,14 +13,23 @@ Here is some text that will wrap around the image. You can write multiple paragr
 
 
 ### Search for Jetted Quasars in the primordial Universe
-<img src="images/RACSpainting.jpg" alt="Alt text" width="200" style="float: left; margin-right: 15px;" />
+
+
+<figure style="text-align: center;">
+<img src="images/RACSpainting.jpg"  width="256"  />
+  <figcaption> 
+ Artistic representation of the RACS radio survey by Margaret Whitehurst, a Wajarri artist.
+ The Wajarri Yamaji people are the traditional owners and custodians of the land where the ASKAP telescope is located.
+ </figcaption>
+</figure>
+
 
 SMBHs in the primordial Universe, z>5, are extremely rare sources, especially those hosting relativistic jets. 
 For this reason, dedicated searches are need to select and identify such objects. 
 As part of my work I combine deep multi-wavelength surveys that cover a large fraction of the sky in order to select good high-z jetted quasar candidates. 
 Once a well-defined sample is built, I perform dedicated spectroscopic observations with some of the largest ground based telescopes currently available in order to have a reliable estimate of the redshift of the candidates. 
 For example, in Ighina et al. 2025 we built the largest well-defined sample of jetted quasars at z>5 currently available. 
-The candidate selection in this work was based on the RACS radio surveys (see figure on the left) performed with the ASKAP telescope in Western Australia.
+The candidate selection in this work was based on the RACS radio surveys (see figure above) performed with the ASKAP telescope in Western Australia.
 
 <!--<img src="images/MW.png" width="512"/>
 <img src="images/RACSpainting.jpg" width="512"/> -->

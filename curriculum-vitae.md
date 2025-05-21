@@ -65,6 +65,12 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
   ([see recording](https://www.youtube.com/watch?v=1Up8CkW6O1k))
 
 
+
+<figure style="text-align: center;">
 <img src="images/Deep24_conf.jpeg" width="512" title="Me presenting at the Deep24 conference in Sintra, Portugal"/>
+  <figcaption> 
+ Me presenting my work during the Deep24 international conference in Lisbon, Portugal.
+ </figcaption>
+</figure>
 
 [Go back](./)
