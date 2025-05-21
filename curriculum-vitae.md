@@ -41,7 +41,7 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 - Supervision of a student for the [REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-programstudent) summer internship at the CfA — June-August 2025
 - Co-supervision of a student for the [REU](https://www.cfa.harvard.edu/opportunities/graduate-undergraduate-programs/reu-summer-intern-programstudent) summer internship at the CfA — June-August 2025
 - Co-supervision of an undergraduate student during their thesis — May-September 2024
-- Teaching 20 hours of practical exercises of `Introduction to Statistics and Informatics' at the Università degli Studi di Milano Statale (2021–
+- Teaching 20 hours of practical exercises of 'Introduction to Statistics and Informatics' at the Università degli Studi di Milano Statale (2021–
 2022, professor V. Cotroneo).
 
 ## Invited Seminars
