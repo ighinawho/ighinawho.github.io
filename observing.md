@@ -5,8 +5,9 @@ layout: default
 <!--## <span style="color:#FF6347">Observ</span><span style="color:#3CB371">ing Exp</span><span style="color:#4169E1">erience </span> -->
 ## Observing Experience
 
-I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data.
+I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data. 
 Below I list all the successful proposals I submitted as Principal Investigator.
+Overall, I have accumulated over 270 h of observations with radio/sub-mm arrays, about 200 h with optical/NIR telescopes and about 800 ksec with X-ray telescopes. 
 
 ### <span style="color:#B22222">Radio band: </span>
 
@@ -91,8 +92,8 @@ Uncovering the X-ray properties of ten 4 < z < 6 blazars
 <figure style="text-align: center;">
   <img src="images/io_telescopes.png"  width="712"/>
   <figcaption> 
-<strong>Left:</strong> Gemini-North telescope (right) and on Mauna Kea (Hawaii, USA).
-<strong>Right:</strong> One of the six dishes composing the ATCA array (NSW, Australia).
+<strong>Left:</strong> Gemini-North telescope (right) and on Mauna Kea (Hawaii, USA), a sacred site to Native Hawaiians.
+<strong>Right:</strong> One of the six dishes composing the ATCA array. The Gomeroi people are the traditional owners of the land where the ATCA telescope is built (NSW, Australia).
  </figcaption>
 </figure>
 
