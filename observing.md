@@ -6,7 +6,6 @@ layout: default
 ## Observing Experience
 
 I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data. 
-Below I list all the successful proposals I submitted as Principal Investigator.
 Overall, I have accumulated over 270 h of observations with radio/sub-mm arrays, about 200 h with optical/NIR telescopes and about 800 ksec with X-ray telescopes. 
 
 ### <span style="color:#B22222">Radio band: </span>
@@ -37,7 +36,7 @@ DDT-20231128-LI-01 — Characterisation of a z~5.2 kpc-scale radio jet
 ### <span style="color:#FF6347">Sub-mm and mm band: </span>
 
 **The Northern Extended Millimetre Array** (NOEMA): 18 hours allocated\
-S25CI — NOEMA view on two obscured z>4.5 radio-loud AGN\
+S25CI — NOEMA view on two obscured z>4.5 radio-loud AGN
 
 ### <span style="color:#3CB371">Optical/near-Infrared band: </span>
 
