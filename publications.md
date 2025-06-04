@@ -38,7 +38,7 @@ L. Ighina, A. Caccianiga, A. Moretti, S. Belladitta, R. Della Ceca and A. Diana,
 
 
 **Radio Detection of VIK J2318—3113, the Most Distant Radio Loud Quasar (z = 6.44)**\
-L. Ighina*, S. Belladitta, A. Caccianiga, J. W. Broderick, G. Drouart, A. Moretti and N. Seymour, 2021, A&A, 647, L11. 
+L. Ighina, S. Belladitta, A. Caccianiga, J. W. Broderick, G. Drouart, A. Moretti and N. Seymour, 2021, A&A, 647, L11. 
  
 
 **X-ray properties of z > 4blazars**\

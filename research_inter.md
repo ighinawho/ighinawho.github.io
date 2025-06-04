@@ -9,18 +9,6 @@ During my research I study supermassive massive black holes (SMBHs) in the primo
 In particular, I focus on Active Galactic Nuclei and Quasars able to expel part of the accreting material in the form of two bipolar jets of relativistic particles.
 To this end, I use some of the most sensitive telescopes currently available across the electromagnetic spectrum.
 
-<!--
-<figure style="text-align: center;">
-<img src="images/RACSpainting.jpg"  width="400"  />
-<img src="images/highz_spectra.png"  width="190" />
-
-  <figcaption> 
- Artistic representation of the RACS radio survey by Margaret Whitehurst, a Wajarri artist.
- The Wajarri Yamaji people are the traditional owners and custodians of the land where the ASKAP telescope is located.
- Right panel: example of the optical spectrum of a z>6 jetted quasars selected from RACS with a redhsift confirmation from the Gemini-South telescope.
-</figcaption>
-</figure>
--->
 
 ### Search for Jetted Quasars in the primordial Universe
 
