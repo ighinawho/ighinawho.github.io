@@ -6,7 +6,7 @@ layout: default
 ## Observing Experience
 
 I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data. 
-Overall, I have accumulated over 270 h of observations with radio/sub-mm arrays, about 200 h with optical/NIR telescopes and about 800 ksec with X-ray telescopes. 
+Overall, I have accumulated over 270 hours of observations with radio/sub-mm arrays, about 200 hours with optical/NIR telescopes and about 800 kilo-seconds with X-ray telescopes. 
 
 ### <span style="color:#B22222">Radio band: </span>
 

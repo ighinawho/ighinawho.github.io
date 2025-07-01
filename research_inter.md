@@ -65,7 +65,7 @@ The detection of this jet allowed us to constrain the properties of large-scale 
 <figure style="text-align: center;">
 <img src="images/PSO_jet.png"  width="540" />
   <figcaption> 
-Left panel: Highest redshift jet currently imaged on kilo-parsec scales, at z=6.1. Left panel: X-ray image showing a bright extended jet (from Ighina et al. 2022). 
+Highest redshift jet currently imaged on kilo-parsec scales, at z=6.1. Left panel: X-ray image showing a bright extended jet (from Ighina et al. 2022). 
 Right panel: zoom in on the innermost regions of the jet in the radio band. image credit Spingola et al. 2020 and Bill Saxton NRAO/AUI/NSF.
  </figcaption>
 </figure>
