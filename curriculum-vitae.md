@@ -64,10 +64,16 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
   *Impact of the CMB on the evolution of AGNs and their relativisitc jets at the highest redshifts*
   ([see recording](https://www.youtube.com/watch?v=1Up8CkW6O1k))
 
-## Professional Service
+## Service and Outreach
 
+- Referee for the Astrophysical Journal, American Astronomical Society
 
-## Outreach
+- Referee for the Universe journal, Multidisciplinary Digital Publishing Institute
+- ESO, TNG, LBT and Chandra proposal reviewer\
+<br/>
+- Podcast Interview: "Ask the Universe with Karolina: Massive black holes and jets"
+- Volunteer for the outreach event: "Historic Change: Celebrating the Life and Legacy of Dr. Vera Rubin"
+- Participation to several events/festivals with the Harvard observatory stand
 
 <figure style="text-align: center;">
 <img src="images/Deep24_conf.jpeg" width="512" title="Me presenting at the Deep24 conference in Sintra, Portugal"/>

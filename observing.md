@@ -46,7 +46,11 @@ S25CI — NOEMA view on two obscured z>4.5 radio-loud AGN
 **ESO New Technology Telescope** (NTT): 3 nights allocated\
 115.28BJ.001 — EFOSC2 — Identifying the most extreme blazars at z > 4
 
-**Gemini-South**: 5.9 hours allocated\
+**Gemini-North**: 11.1 hours allocated\
+GN-2025B-Q-104 — GNIRS — Characterise the SMBH properties of the most extreme radio-loud QSOs at z>5
+
+**Gemini-South**: 13.1 hours allocated\
+GS-2025B-Q-102 — FLAMINGOS2 — Characterise the SMBH properties of the most extreme radio-loud QSOs at z>5\
 GS-2023-DD-108 — GMOS — Spectroscopic confirmation of a z~5.7 blazar\
 GS-2021-DD-112 — GMOS — Spectroscopic confirmation of two z > 6 Radio-Loud Quasar candidates
 
