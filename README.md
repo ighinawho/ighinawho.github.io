@@ -1,7 +1,7 @@
 # Welcome to my webpage !
 
 My name is Luca Ighina, and I’m a Postdoctoral Fellow at the Center for Astrophysics | Harvard & Smithsonian in Cambridge, Massachusetts.
-My work consists in studying how galaxies and black holes in our Universe formed and evolved and I could not love it more.
+My work consists in studying how galaxies and black holes in our Universe formed and evolved. I couldn't love it more.
 I received my PhD in 2024 from the Insubria University and INAF-Brera observatory (Italy).
 
 <!-- how the study the most distant supermassive black hole in our Universe using the largest and most sensitive telescopes on the ground and in space.--> 
@@ -13,6 +13,6 @@ I received my PhD in 2024 from the Insubria University and INAF-Brera observator
 **[Research Interests](./research_inter.html)** | 
 **[Publications](./publications.html)**\
 **[Observing Experience](./observing.html)** |
-**[In the news](./news.html)** |
+**[Grants and awards](./news.html)** |
 **[Contact me](./contacts.html)**
 <!-- **[Beyond Astronomy](./contacts.html)** | -->

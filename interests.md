@@ -31,4 +31,8 @@ After moving out of my family home, I missed having a
 furry companion, so I began volunteering at dog and cat shelters in every city I have lived in
 as a way to stay connected to animals while giving back to the community.
 
+
+Please support these fantastic shelters if you can:
+
+
 [Go back](./)

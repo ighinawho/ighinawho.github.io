@@ -3,7 +3,7 @@ layout: default
 ---
 ## Grants and Awards:
 
-- Chandra grant 26700199 "X-ray observations of four radio-bright $z>2$ kpc-scale jets": $46k
+- Chandra grant 26700199 "X-ray observations of four radio-bright z>2 kpc-scale jets": $46k
 - Grant from INAF for the project "Testing the obscuration in the Early Universe": €49k
 - Grant from INAF for the project "QSO jets in the early Universe": €24k 
 - PhD scholarship awarded by Università degli Studi dell'Insubria: €51k

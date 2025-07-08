@@ -8,9 +8,13 @@ Links to all referred publications, first and co-author, can be found *[here](ht
 
 ### First author publications
 
+**X-ray investigation of possible super-Eddington accretion in a radio-loud quasar at z=6.13**\
+L. Ighina, A. Caccianiga, T. Connor, A. Moretti, F. Pacucci, C. Reynolds, J. Afonso, B. Arsioli, S. Belladitta, J. W. Broderick, D. Dallacasa, R. Della Ceca, F. Haardt E. Lambrides, J. K. Leung, A. Lupi, I. Matute, F. Rigamonti,
+P. Severgnini, F. Tavecchio, C. Vignali. 2025, ApJL, in press.
+
 **High-z radio Quasars in RACS I: Selection, identification, and multi-wavelength properties**\
 L. Ighina, A. Caccianiga, A. Moretti, J. W. Broderick,
- J. K. Leung, F.  Rigamonti, N. Seymour, J. Afonso, T. Connor, C. Vignali, Z. Wnag, T. An, B. Arsioli, S. Bisogni, D. Dallacasa, R. Della Ceca, Y. Liu, I. Matute, C. Reynolds,  A. Rossi, C. Spingola, P. Severgnini and F. Tavcecchio, 2025, A&A, accepted.
+ J. K. Leung, F.  Rigamonti, N. Seymour, J. Afonso, T. Connor, C. Vignali, Z. Wnag, T. An, B. Arsioli, S. Bisogni, D. Dallacasa, R. Della Ceca, Y. Liu, I. Matute, C. Reynolds,  A. Rossi, C. Spingola, P. Severgnini and F. Tavcecchio, 2025, A&A, 698, A158.
 
 
 **Multi-wavelength properties of three new radio-powerful z~5.6 QSOs discovered from RACS**\

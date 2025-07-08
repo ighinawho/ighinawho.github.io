@@ -13,12 +13,12 @@ If you need a scientific reference, please contact any of these close collaborat
 - [Thomas Connor](https://www.cfa.harvard.edu/people/thomas-connor/) — Center for Astrophysics, Cambridge, USA
 - [Nick Seymour](https://staffportal.curtin.edu.au/staff/profile/view/nick-seymour-c087930b/) — ICRAR-Curtin, Perth, Australia
 
-<!--<img src="images/me_working.jpg" width="420" title="A typical working day"/> -->
+<!--<img src="images/me_working.jpg" width="420" title="A typical working day"/>
 
 
 <figure style="text-align: center;">
   <img src="images/me_working.jpg"  width="360"/>
   <figcaption>Me during a typical working day :)</figcaption>
-</figure>
+</figure> -->
 
 [Go back](./)
