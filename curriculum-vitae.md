@@ -68,7 +68,6 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 ## Service and Outreach
 
 - Referee for the Astrophysical Journal, American Astronomical Society
-
 - Referee for the Universe journal, Multidisciplinary Digital Publishing Institute
 - ESO, TNG, LBT and Chandra proposal reviewer\
 <br/>
