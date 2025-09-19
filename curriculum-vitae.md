@@ -47,6 +47,12 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 
 ## Invited Seminars
 
+- AGN group Santiago seminar — 1 October 2025 — Santiago (Chile)\
+*Relativistic jets at high redshift and the evolution of the most massive BHs*
+
+- ESO Seminar — 30 September 2025 — ESO, Santiago (Chile)\
+*Tracing the evolution of jetted AGN with Blazars*
+
 - High energy seminar — 2 April 2025 — CfA, Cambridge, MA (US)\
 *X-ray view on blazars and relativistic jets at high redshift*
   ([see recording](https://www.youtube.com/watch?v=rlUYSzSdtwQ))
@@ -68,7 +74,7 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 ## Service and Outreach
 
 - Referee for the Astrophysical Journal, American Astronomical Society
-- Referee for the Universe journal, Multidisciplinary Digital Publishing Institute
+<!-- - Referee for the Universe journal, Multidisciplinary Digital Publishing Institute -->
 - ESO, TNG, LBT and Chandra proposal reviewer\
 <br/>
 - Podcast Interview: "Ask the Universe with Karolina: Massive black holes and jets"

@@ -75,7 +75,8 @@ AOT47\_3 — DOLORES — Hunting Down z >5  Radio-Loud Quasars
 Identifying z > 5 blazars with _Swift-XRT_\
 Uncovering the X-ray properties of ten 4 < z < 6 blazars
 
-**Chandra X-ray Observatory**: 590 ksec allocated\
+**Chandra X-ray Observatory**: 650 ksec allocated\
+700175 - Uncovering the X-ray jet of a powerful z~4 blazar\
 700199 — X-ray observations of four radio-bright z > 2 kpc-scale jets\
 704960 — Deep observation of the highest-redshift X-ray jet\
 704630 — X-ray properties of two new z > 6 jetted Quasars\

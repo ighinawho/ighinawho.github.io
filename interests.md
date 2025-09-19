@@ -6,7 +6,7 @@ layout: default
 
 Outside of work I enjoy multiple activities, mainly involving fresh air and sunny days.
 
-I consider myself an active person with a wide range of interests. I love anything related to the
+I am an active person with a wide range of interests. I love anything related to the
 ocean—surfing, beach volleyball, sailing, and snorkeling— and I also enjoy spending time in
 the mountains. Growing up in a small town near the beautiful Italian Alps, I developed a deep
 appreciation for hiking, often taking multi-day trips immersed in nature. I also enjoy climbing
