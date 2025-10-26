@@ -6,9 +6,11 @@ I received my PhD in 2024 from the Insubria University and INAF-Brera observator
 
 <!-- (Page under development, we are working for you. Stay tuned !)-->
 
-"A weird guy.... like a Masai gone bad..."\
-"Uno strano... tipo un Masai andato male "\
-(ref. Ornella Vanoni Italian singer)
+My biggest accomplishment?\
+Ornella Vanoni (Italian singer) [calling me](https://youtu.be/VjfAXVHB_Kk?si=wy7E1tLHMMRRjOgg&t=420):\
+"Uno strano... tipo un Masai andato male"\
+"A weird guy.... like a Masai gone bad"
+
 
 ## More about me and my research:
 **[Curriculum Vitae](./curriculum-vitae.html)** | 

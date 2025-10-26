@@ -10,7 +10,7 @@ Links to all referred publications, first and co-author, can be found *[here](ht
 
 **X-ray investigation of possible super-Eddington accretion in a radio-loud quasar at z=6.13**\
 L. Ighina, A. Caccianiga, T. Connor, A. Moretti, F. Pacucci, C. Reynolds, J. Afonso, B. Arsioli, S. Belladitta, J. W. Broderick, D. Dallacasa, R. Della Ceca, F. Haardt E. Lambrides, J. K. Leung, A. Lupi, I. Matute, F. Rigamonti,
-P. Severgnini, F. Tavecchio, C. Vignali. 2025, ApJL, in press.
+P. Severgnini, F. Tavecchio, C. Vignali. 2025, ApJL, 990, L56.
 
 **High-z radio Quasars in RACS I: Selection, identification, and multi-wavelength properties**\
 L. Ighina, A. Caccianiga, A. Moretti, J. W. Broderick,

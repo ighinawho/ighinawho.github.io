@@ -5,8 +5,8 @@ layout: default
 <!--## <span style="color:#FF6347">Observ</span><span style="color:#3CB371">ing Exp</span><span style="color:#4169E1">erience </span> -->
 ## Observing Experience
 
-I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation-execution-reduction of multi-wavelength data. 
-Overall, I have accumulated over 270 hours of observations with radio/sub-mm arrays, about 200 hours with optical/NIR telescopes and more than 850 kilo-seconds with X-ray telescopes. 
+I work with many telescopes across the entire electromagnetic spectrum and I have experience in the preparation, execution and reduction of multi-wavelength data from more than 20 instruments. 
+As principal investigator, I have accumulated more than 270 hours of observations with radio/sub-mm arrays, over 200 hours with optical/NIR telescopes and more than 850 kilo-seconds (235 hours) with X-ray telescopes. 
 
 ### <span style="color:#B22222">Radio band: </span>
 
@@ -76,7 +76,7 @@ Identifying z > 5 blazars with _Swift-XRT_\
 Uncovering the X-ray properties of ten 4 < z < 6 blazars
 
 **Chandra X-ray Observatory**: 650 ksec allocated\
-700175 - Uncovering the X-ray jet of a powerful z~4 blazar\
+700175 — Uncovering the X-ray jet of a powerful z~4 blazar\
 700199 — X-ray observations of four radio-bright z > 2 kpc-scale jets\
 704960 — Deep observation of the highest-redshift X-ray jet\
 704630 — X-ray properties of two new z > 6 jetted Quasars\
