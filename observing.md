@@ -28,9 +28,14 @@ DDT-20231128-LI-01 — Characterisation of a z~5.2 kpc-scale radio jet
 **upgraded Giant Metrewave Telescope** (uGMRT): 14 hours allocated:\
  42_001 — Low-frequency Radio Properties of Three New z > 6 Jetted QSOs
 
-**Very Large Array** (VLA): 9.5 hours allocated\
+**Very Large Array** (VLA): 29.5 hours allocated\
 24B-504 — Illuminating the COSMOS: characterising the radio jet of a z~8 AGN\
-22A-305 — Characterising the kpc structure and emission of a powerful radio jet at z > 6
+22A-305 — Characterising the kpc structure and emission of a powerful radio jet at z > 6\
+26A-155 — Resolving a powerful $z~4$ radio jet at different scales\
+26A-533 — When jets meet gas: Feedback at play in a $z=6.1$ super-Eddington quasar host
+
+**Very Long Baseline Array** (VLBA): 6.0 hours allocated\
+26A-154 — Resolving a powerful $z~4$ radio jet at different scales
 
 
 ### <span style="color:#FF6347">Sub-mm and mm band: </span>

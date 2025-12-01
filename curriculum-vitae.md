@@ -75,20 +75,19 @@ Full list of referred publications can be found **[here](https://ui.adsabs.harva
 - Member of the EMU/Euclid Coordination Team
 - Referee for the Astrophysical Journal and the Universe journal
 - member of the NOIRLab Time Allocation Commettee (2025)
-<!-- - Referee for the Universe journal, Multidisciplinary Digital Publishing Institute -->
 <!--- ESO, TNG, LBT and Chandra proposal reviewer\ --> 
 
 - Participation to national TV and radio news/shows in Italy to discuss research and Black Holes physics (see [News section](./news.html))
--  Outreach talk at the Public Observatory Nights, hosted by the Harvard College Observatory: "Black Hole Jetstreams: The Most Powerful Engines in the Universe"
+-  Outreach talk at the [Public Observatory Nights](https://hco.cfa.harvard.edu/outreach/public-observatory-nights/), hosted by the Harvard College Observatory: "Black Hole Jetstreams: The Most Powerful Engines in the Universe"
 
-- Podcast Interview: "Ask the Universe with Karolina: Massive black holes and jets"
+- Podcast Interview: "Karolina asks the Universe: Massive black holes and jets"
 - Participation to the outreach event: "Historic Change: Celebrating the Life and Legacy of Dr. Vera Rubin"
 - Participation to several events/festivals with the Harvard observatory stand
 
 <figure style="text-align: center;">
-<img src="images/Deep24_conf.jpeg" width="512" title="Me presenting at the Deep24 conference in Sintra, Portugal"/>
+<img src="images/outreach.png" width="512" title="Me presenting at the public observatory nights hosted by the Harvard College Observatory"/>
   <figcaption> 
- Me presenting my work during the Deep24 international conference in Lisbon, Portugal.
+ Me presenting at the public observatory nights hosted by the Harvard College Observatory.
  </figcaption>
 </figure>
 
