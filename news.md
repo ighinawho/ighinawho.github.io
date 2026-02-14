@@ -5,7 +5,7 @@ layout: default
 
 - ATNF Visiting Scientists Program: 4-week visit to the ATNF Kensington site in Perth, Western Australia — 6kAUD
 - Chandra grant 27700175 "Uncovering the X-ray jet of a powerful $z~4$ blazar" — 66k USD
-- Chandra grant 26700199 "X-ray observations of four radio-bright z>2 kpc-scale jets" — $6k USD
+- Chandra grant 26700199 "X-ray observations of four radio-bright z>2 kpc-scale jets" — 40k USD
 - Grant from INAF for the project "Testing the obscuration in the Early Universe" — 49k EUR
 - Grant from INAF for the project "QSO jets in the early Universe" — 24k EUR
 - PhD scholarship awarded by Università degli Studi dell'Insubria — 51k EUR
